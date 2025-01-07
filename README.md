@@ -1,3 +1,9 @@
+<h1 align="center">LensTrap<br>
+</h1>
+<img src="https://github.com/H4ckethics138/LensTrap/blob/main/Screenshot%20From%202025-01-07%2020-15-20.png" alt="Paris" class="center">
+* `📱 💀`<br />
+
+
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 
