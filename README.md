@@ -34,7 +34,7 @@
 git clone https://github.com/H4ckethics138/LensTrap.git
 cd LensTrap
 chmod +x LensTrap.sh
-bash LensTrap
+bash LensTrapn.sh
 ```
 
 
